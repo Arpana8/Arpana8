@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Arpana8.
 - 👀 I’m interested in CS.
 - 🌱 I’m currently learning basics of programming languages.
-- 😄 Pronouns: 
 
 <!---
 Arpana8/Arpana8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
